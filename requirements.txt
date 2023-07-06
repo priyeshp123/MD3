@@ -4,4 +4,5 @@ seaborn
 bs4
 requests
 lxml
+jupyter
 -e .

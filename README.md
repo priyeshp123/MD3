@@ -50,5 +50,20 @@ Project: Download data from Yahoo Finance
 
    Build final cut for balance sheets. Save as pickle file.
  
+4. Extract Income sheet: Stage4_Yahoo_Extract_Income_Sheet.ipynb
 
+   Similar to step 4.
+
+5. Extract Cash sheet: Stage5_Yahoo_Extract_Cash_Sheet.ipynb
+
+   Similar to step 3 & 4.
+
+6. EDA
+
+   Check for outliers, distribution, correlations.
+   Tidy up data types.
+
+7. Design and apply labelling strategy.
+
+ 
 
