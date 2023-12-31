@@ -1,5 +1,7 @@
 Project: Download data from Yahoo Finance 
 
+Jupyter notebooks are in notebook/Yahoo.
+
 1. Download data from Yahoo : Stage1_Yahoo_Download_data.ipynb
 
    Download is prone to failure so download as 4 groups organised by 
@@ -58,7 +60,11 @@ Project: Download data from Yahoo Finance
 
    Similar to step 3 & 4.
 
-6. EDA
+6. Consolidate data and export : stage6_Yahoo_Consolidate_Extract_Data.ipynb
+
+   Consolidate data and export.
+
+7. Assign Labels : Yahoo_assign_label.ipynb 
 
    Check for outliers, distribution, correlations.
    Tidy up data types.
